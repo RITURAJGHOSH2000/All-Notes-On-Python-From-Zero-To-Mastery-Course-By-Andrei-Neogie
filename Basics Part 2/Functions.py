@@ -3,4 +3,5 @@
 """
 def say_hello():
     print('Hellloooooo')
-say_hello()
+say_hello() # Hellloooooo
+# Here we can type say_hello() the number of time we want to print the same thing 
